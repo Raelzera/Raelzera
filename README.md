@@ -16,6 +16,7 @@
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg">
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+<img align="center" alt="-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg">
 </div>
 <br>
 
@@ -24,6 +25,5 @@
 <div> 
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kubernetes/kubernetes-plain.svg">
 <img align="center" alt="-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/terraform/terraform-plain.svg">
-<img align="center" alt="-Js" height="30" width="40" src="https://www.vectorlogo.zone/logos/istioio/istioio-ar21.svg">
 <img align="center" alt="-Js" height="30" width="40" src="https://www.svgrepo.com/show/330767/kalilinux.svg">
 </div>
