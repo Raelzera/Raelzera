@@ -1,6 +1,6 @@
 # 🖐 Hi, I'm Raél!
 
-#### 🖥 I work in the IT area as an infrastructure coordinator
+#### 🖥 I work as an SRE Engineer at Serasa
 #### 💙 Enthusiastic about information security
 
 <br><br>
