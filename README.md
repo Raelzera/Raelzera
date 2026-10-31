@@ -1,33 +1,79 @@
-# 🖐 Hi, I'm Raél!
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,50:0b3d2e,100:22F700&text=Ra%C3%A9l&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=Senior%20Site%20Reliability%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Raél — Senior Site Reliability Engineer" width="100%" />
+</p>
 
-I'm a dedicated Site Reliability Engineer (SRE), committed to ensuring system reliability and performance. With a strong interest in information security, I continuously seek to expand my knowledge in cybersecurity to enhance system protection and contribute to a safer digital environment.
+<p align="center">
+  <a href="https://github.com/Raelzera">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=22F700&center=true&vCenter=true&width=620&lines=%24+whoami+%E2%86%92+Senior+SRE;Keeping+systems+up+at+3am+so+you+don't+have+to;Automating+toil+away%2C+one+script+at+a+time;Now+exploring+software+engineering+%F0%9F%9A%80" alt="Typing SVG" />
+  </a>
+</p>
 
-## <h3> ⚙ My skills </h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raelzera&color=22F700&style=flat-square&label=profile+views" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Raelzera?style=flat-square&color=22F700&labelColor=0d1117&label=followers" alt="Followers" />
+</p>
 
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&color=000000" alt="Bash" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
-      <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&color=000000" alt="Debian" />
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
-      <img src="https://img.shields.io/badge/BlackArch-0A0A0A?style=for-the-badge&logo=blackarch&color=000000" alt="BlackArch" />
-      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&color=000000" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&color=000000" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Ansible-E00?style=for-the-badge&logo=ansible&color=000000" alt="Ansible"/>
-      <img src="https://img.shields.io/badge/Amazon-F90?logo=amazon&color=000000&style=for-the-badge" alt="Amazon Web Service"/>
-      <img src="https://img.shields.io/badge/Terraform-844FBA?logo=terraform&color=000000&style=for-the-badge" alt="Terraform" />
-  </div>
-</div>
+---
 
-## <h3> 🚀 Studying </h3>
-<div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
-  <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&color=000000" alt="Go" />
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&color=000000&style=for-the-badge" alt="Kubernetes" />
-    <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
-    <img src="https://img.shields.io/badge/Metasploit-008C8C?style=for-the-badge&logo=metasploit&color=000000" alt="Metasploit" />
-    <img src="https://img.shields.io/badge/Wireshark-009639?style=for-the-badge&logo=wireshark&color=000000" alt="Wireshark" />
-  </div>
-</div>
+### `> cat about.yaml`
+
+```yaml
+name: Raél
+role: Senior Site Reliability Engineer
+mission: "Reliable, observable and automated infrastructure — at scale."
+focus:
+  - Cloud infrastructure & Infrastructure as Code
+  - Automation, CI/CD and eliminating toil
+  - Linux, containers and observability
+  - Information security & hardening
+currently:
+  learning: [Go, Kubernetes, Software Engineering]
+  hacking_on: [Burp Suite, Metasploit, Wireshark]
+philosophy: "Hope is not a strategy."
+```
+
+---
+
+### `> ls ./stack`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,bash,python,git,docker,ansible,terraform,aws,postgres&theme=dark&perline=11" alt="Tech stack" />
+</p>
+
+### `> ls ./learning`
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,githubactions&theme=dark" alt="Currently learning" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" height="48" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD" height="48" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" height="48" alt="Wireshark" />
+</p>
+
+---
+
+### `> uptime --github`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raelzera&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22F700&icon_color=22F700&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raelzera&layout=compact&hide_border=true&bg_color=0d1117&title_color=22F700&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Raelzera&hide_border=true&background=0d1117&ring=22F700&fire=22F700&currStreakLabel=22F700&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raelzera&bg_color=0d1117&color=c9d1d9&line=22F700&point=ffffff&area=true&area_color=22F700&hide_border=true&custom_title=Contribution%20graph" width="100%" alt="Contribution graph" />
+</p>
+
+---
+
+<p align="center">
+  <code>SLO: 99.99% curiosity · 0% toil tolerated</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:22F700,50:0b3d2e,100:0d1117&section=footer" width="100%" alt="" />
+</p>
