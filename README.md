@@ -44,7 +44,7 @@ philosophy: "Hope is not a strategy."
 ### `> ls ./learning`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,githubactions,prometheus,grafana&theme=dark" alt="Go, Kubernetes, GitHub Actions, Prometheus, Grafana" />
+  <img src="https://skillicons.dev/icons?i=go,nodejs,kubernetes,githubactions,prometheus,grafana&theme=dark" height="48" alt="Go, Node.js, Kubernetes, GitHub Actions, Prometheus, Grafana" /><img src="./assets/datadog.svg" height="48" alt="Datadog" />
 </p>
 
 ### `> sudo ls ./offensive-sec`
