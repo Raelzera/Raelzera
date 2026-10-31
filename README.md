@@ -44,11 +44,13 @@ philosophy: "Hope is not a strategy."
 ### `> ls ./learning`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,kubernetes,githubactions&theme=dark" alt="Currently learning" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=FF6633" height="48" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=2596CD" height="48" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=1679A7" height="48" alt="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=go,kubernetes,githubactions,prometheus,grafana&theme=dark" alt="Go, Kubernetes, GitHub Actions, Prometheus, Grafana" />
+</p>
+
+### `> sudo ls ./offensive-sec`
+
+<p align="center">
+  <img src="./assets/offensive-sec.svg" height="48" alt="Kali Linux, Burp Suite, Metasploit, Wireshark" />
 </p>
 
 ---
