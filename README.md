@@ -56,16 +56,16 @@ philosophy: "Hope is not a strategy."
 ### `> uptime --github`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raelzera&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22F700&icon_color=22F700&text_color=c9d1d9&rank_icon=github&include_all_commits=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raelzera&layout=compact&hide_border=true&bg_color=0d1117&title_color=22F700&text_color=c9d1d9&langs_count=6" height="165" alt="Top languages" />
+  <img src="./profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="./profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="GitHub stats" />
+  <img src="./profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most committed languages" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Raelzera&hide_border=true&background=0d1117&ring=22F700&fire=22F700&currStreakLabel=22F700&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raelzera&bg_color=0d1117&color=c9d1d9&line=22F700&point=ffffff&area=true&area_color=22F700&hide_border=true&custom_title=Contribution%20graph" width="100%" alt="Contribution graph" />
 </p>
 
 ---
